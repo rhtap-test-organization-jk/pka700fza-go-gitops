@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: pka700fza-go-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/pka700fza-go
